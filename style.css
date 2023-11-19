@@ -225,6 +225,7 @@ body{
     background-color: #F4A261;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .child-3 p.gather{
