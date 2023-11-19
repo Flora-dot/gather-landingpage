@@ -288,6 +288,10 @@ body{
         width: 100%;
     }
     
+    .hero-section_content1 h1{
+        font-size: 5rem;
+    }
+    
     .hero-section_content2{
         width: 100%;
         justify-content: space-between;
