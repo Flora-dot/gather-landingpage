@@ -281,7 +281,7 @@ body{
     
     .hero-section_content{
         flex-direction: column;
-        gap: 50px;
+        gap: 50px; 
     }
     
     .hero-section_content1{
